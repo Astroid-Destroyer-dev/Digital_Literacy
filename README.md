@@ -109,29 +109,13 @@ included the national cyber crime portal (cybercrime.gov.in) and the helpline 19
 
 ## about me
 
-**Name:** [put ur name here]  
-**Reg No:** [put ur reg number]  
-**Branch:** [ur branch]  
+**Name:** Punya Prasoon   
+**Branch:** CSE  
 **Year:** First Year  
 **Course:** CSE0001  
 
 ---
 
-## marks breakdown
-
-Task 1 - 20  
-Task 2 - 20  
-Task 3 - 20  
-Task 4 - 20  
-Task 5 - 20  
-bonus for repo structure - 5  
-
-total = 100  
-pass = 50  
-
-its pass/fail so either u pass or u dont. doesnt affect cgpa which is honestly the best part lol
-
----
 
 ## the full report
 
@@ -168,14 +152,6 @@ basically dont copy this but u can use it as reference if ur also doing this pro
 - be more careful about what i post on social media
 - help other students understand this stuff as a digital ambassador
 - maybe learn more about cybersecurity cuz its actually interesting
-
----
-
-## contact me if u need help
-
-email: [ur college email]  
-github: [ur github username]  
-linkedin: [ur linkedin]
 
 ---
 
