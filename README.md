@@ -11,6 +11,11 @@ In today’s world, being digitally literate is as important as traditional lite
 ## How to Get Involved
 We’re always looking for feedback and contributions! If you have ideas, resources, or simply want to share your thoughts, feel free to reach out. Collaboration makes our project stronger!
 
+# Digital Literacy Awareness Quiz
+
+You can participate in the digital literacy awareness quiz by filling out the following Google Form:
+
+[Digital Literacy Awareness Quiz](https://docs.google.com/forms/d/e/1FAIpQLScos9mHZcxCDxi_jpfjDe68PrX0PXZpfI_wE_se7lWSpHYEFA/viewform)
+
 Thanks for checking out our project, and we hope you find our resources helpful!
 
-Happy learning!
