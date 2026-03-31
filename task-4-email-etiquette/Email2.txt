@@ -1,17 +1,14 @@
-Subject: Summer Internship Inquiry – [Your Name] – [Your Major]
+Subject: Summer Internship Inquiry – Punya Prasoon CSE Core
+Dear Sir,
 
-Dear [Coordinator Name],
+My name is Punya Prasoon and I’m a First Year at VIT Bhopal University. I’ve been following Rockstar Game for a bit now, especially after seeing GTA6 trailer. So I wanted to reach out and see if you’re taking interns this summer.
 
-My name is [Your Name] and I’m a [Year] at [University Name]. I’ve been following [Company Name] for a bit now—especially after seeing [mention one specific thing: a recent post, a project, or a news article about them]—so I wanted to reach out and see if you’re taking interns this summer.
-
-I’m currently majoring in [Major], and while I’ve learned a lot in my classes about [Skill A] and [Skill B], I’m really looking for a chance to actually apply that in a fast-paced environment. I’ve been working on [mention one project or specific class assignment] lately, and I think that hands-on experience would translate well to the work your team does.
+I’m currently majoring in Computer Science, and while I’ve learned a lot in my classes about AI and 3D development, I’m really looking for a chance to actually apply that in a fast-paced environment. I’ve been working on 3D mdoeling in Blender lately, and I think that hands-on experience would translate well to the work your team does.
 
 I’ve attached my resume and a quick cover letter. I’d love to chat more about the role or even just hear more about the team's goals for the summer if you have a few minutes.
 
 Thanks so much for your time and for considering my application!
 
-Best,
+Best Regards,
 
-[Your Full Name]
-[Phone Number]
-[LinkedIn Link, if you have one]
+Punya Prasoon
